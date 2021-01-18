@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+- construct in openmp
+    Fork-join parallelism
+
+- #pragma omp parallel
+  #include<omp.h>
+  gcc -fopenmp file.c
+
+
